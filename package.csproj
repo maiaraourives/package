@@ -8,7 +8,6 @@
     <Authors>Maiara Ferreira<Authors>
     <Company>Teste LTDA<Company>
     <RepositoryUrl>https://github.com/MaiaFerreira04/package.git<RepositoryUrl>
-    <GeneratedPackageOnBuild>true<GeneratedPackageOnBuild>
 
   </PropertyGroup>
 
